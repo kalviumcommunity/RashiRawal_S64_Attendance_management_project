@@ -10,7 +10,7 @@ public class Course {
         this.courseName = courseName;
     }
 
-    // Method to display details
+    // Method to display details  
     public void displayDetails() {
         System.out.println("Course ID: " + this.courseId);
         System.out.println("Course Name: " + this.courseName);
